@@ -24,7 +24,7 @@
 - Tercer paso:  Crear funciones
 - Cuarto paso: Integrar Js con HTML
 
-##Taller #4 Salarioa
+## aller #4 Salarioa
 
 - Primer paso: Definir las formulas
 - Segundo  paso: Implementar formulas en JavaScript
